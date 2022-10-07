@@ -20,7 +20,8 @@ To develop an e-commerce using decoupled wordpress + nextjs for performance. Cus
 - [x] Algolia (full text search)
 - [x] DaisyUI
 - [x] SwiperJS (for carousels)
-
+- [x] Next-i18next (SSR Translations)
+- [x] Nextjs-progressbar
 
 ## Preview
 
