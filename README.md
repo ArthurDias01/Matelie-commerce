@@ -25,5 +25,5 @@ To develop an e-commerce using decoupled wordpress + nextjs for performance. Cus
 
 ## Preview
 
-Deployed on Vercel ->  [M'atelie Art](https://loja.matelie.art)
+Deployed on Vercel ->  [M'atelie Art](https://matelie.art)
 ![image](https://user-images.githubusercontent.com/83284629/194661208-2c8eb9cb-8dcd-4da0-8dd6-4148b0372d91.png)
